@@ -5,7 +5,7 @@ title: Bairros com baixa conectividade
 
 # Mozilla Clubs em bairros com baixa conectividade
 
-> Ajude o próximo bilhão de pessoas ler, escrever e participar na web com atividades práticas adequado para um ambiente de baixa conectividade!
+> Ajude o próximo bilhão de pessoas ler, escrever e participar na web com atividades práticas adequadas para um ambiente de baixa conectividade!
 
 Você decidiu ajudar sua comunidade ensinando novas habilidades digitais, mas você está em um lugar com baixa conectividade ou nenhuma conexão, ou talvez você tem uma conexão a internet, mas não o suficiente para todos. Você quer ajudar sua comunidade, mas a infraestrutura é um desafio. Este guia irá mostrar-lhe como configurar um clube com atividades adequadas para baixa conectividade e situações totalmente offline. Com Mozilla Clubs, você pode ligar sua comunidade a iniciativa global, utilizando práticas participativas de aprendizagem comunitária. 
 
