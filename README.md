@@ -1,4 +1,4 @@
-# Treinamento Mozilla Clubs no Brasil
+# Guia Mozilla Clubs
 Repositório de localização do material de engajamento para as novas lideranças do Leão Mozilla Clubs.
 
 # Mozilla Club Guides
