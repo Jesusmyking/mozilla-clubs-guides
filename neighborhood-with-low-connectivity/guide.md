@@ -1,32 +1,32 @@
 ---
-title: A Mozilla Club At Low-Connectivity Neighborhoods
+title: Bairros com baixa conectividade
 ---
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
-# A Mozilla Club At Low-Connectivity Neighborhoods
+# Mozilla Clubs em bairros com baixa conectividade
 
-> Help the next billion people read, write, and participate on the web with hands-on activities suitable for a low-connectivity environment!
+> Ajude o próximo bilhão de pessoas ler, escrever e participar na web com atividades práticas adequado para um ambiente de baixa conectividade!
 
-You decided to help your community learn new digital skills but you’re in a place with low-connectivity or no connection at all, or maybe you do have a connection but not enough machines. You know you want to help your peers but the infrastructure is a challenge. Fear not, this guide will show you how to set up a club with activities suited for low-connectivity and fully offline situations. With Mozilla Clubs, you can connect your community to a global initiative, using participatory practices and bringing peer-learning into your low-connectivity neighborhood. 
+Você decidiu ajudar sua comunidade ensinando novas habilidades digitais, mas você está em um lugar com baixa conectividade ou nenhuma conexão, ou talvez você tem uma conexão a internet, mas não o suficiente para todos. Você quer ajudar sua comunidade, mas a infraestrutura é um desafio. Este guia irá mostrar-lhe como configurar um clube com atividades adequadas para baixa conectividade e situações totalmente offline. Com Mozilla Clubs, você pode ligar sua comunidade a iniciativa global, utilizando práticas participativas de aprendizagem comunitária. 
 
-**Mozilla Clubs add value to your community** by:
-* Spreading digital skills that enable life changing opportunities such as new careers and education.
-* Teaching how to participate in online civic initiatives and e-Gov processes thus making the needs and dreams of your region known to a larger audience.
-* Peer learning is an effective way to strengthen your community and ensure participants get a lot out of their involvement.
-* Share activities and content that attendees can then bring back to their own contexts (whether in their school, workplace, community, etc.).
-* Participatory processes and informal learning tools that can be used to create and adapt activities that are focused on the same things that your community is interested in.
-* Be a part of a global initiative and exchange stories and feedback across the world.
+**Mozilla Clubs agregam valores a sua comunidade:**
+* Promovendo competências digitais que permitem a mudança de vida, oportunidades, como novas carreiras e estudos;
+* Ensinar a participar em iniciativas da sociedade civil on-line, tornando assim as necessidades e sonhos de sua região conhecida por um público maior;
+* Aprender em comunidade é uma maneira eficaz de fortalecer a sua comunidade e garantir que os participantes possam se conhecer e se familiarizar com toda a comunidade;
+* Criando e compartilhando conteúdos que os participantes podem envolver seus próprios contextos (escola, local de trabalho e comunidade);
+* Processo participativo e aprendizagem informal pode ser usados ​​para criar e adaptar as atividades que estão centradas sobre as mesmas coisas que a sua comunidade está interessada;
+* Seja uma parte de uma iniciativa global,  compartilhando histórias e resultados de sucesso com todo o mundo.
 
 
-**Mozilla Clubs add motivation for your attendees** by:
-* Learning new digital skills that enables better jobs and opportunities
-* Learn how to leverage the web and its large audience to spread social initiatives and participate in online civic processes
-* Understand how the internet work
-* Looking to meet new people, learn new skills, make connections
-* Learn through informal methods, by sharing, become a mentor.
-* Be a part of a larger community and cause positive social impact in your area.
-* Help spread knowledge about how to build the web we want.
-* Empower people to put their voice on the web
+**Mozilla Clubs motiva a comunidade a**:
+* Aprender novas habilidades digitais, permitindo melhores empregos e oportunidades;
+* Saber como aproveitar a web e seu público para difundir iniciativas sociais e participar de projetos da sociedade civil online;
+* Compreender como funciona a internet;
+* Conhecer pessoas novas, aprender novas habilidades e descobrir talentos;
+* Aprender na prática por meio de métodos informais a partir do compartilhamento de histórias e casos de sucesso, tornando se um multiplicador;
+* Fazer parte de uma comunidade global, causando impacto social positivo em sua comunidade;
+* Ajudar a espalhar o conhecimento sobre como construir uma rede global focado no ensino de habilidades digitais;
+* Capacitar pessoas a expor suas ideias, projetos, histórias e pensamentos na web.
 
 <div class="text-center">
 ![Group photo](img/group.png)
@@ -34,18 +34,18 @@ You decided to help your community learn new digital skills but you’re in a pl
 
 
 
-###How and why you should start a Mozilla Clubs in your neighborhood
+###Como e porquê você deve começar um Mozilla Clubs no seu bairro
 
-As a Mozilla Club Captain in this context, you can:
-* Uplevel your own mentoring and leadership skills.
-* Create or adapt activities that are focused on the same things your community cares about.
-* Be a catalyst for change in your region.
-* Join a global network and connect with other Mozilla Club Captains to share best practices and contribute new/adapted content.
+Como um Capitão de Mozilla Clubs, neste contexto, você pode:
+* Ensinar com seu próprio nível de conhecimento e liderança;
+* Criar ou adaptar as atividades alinhadas com as mesmas coisas que sua comunidade está interessada;
+* Ser um catalisador em sua região;
+* Juntar-se a uma rede global e se conectar com outros     Capitães de Mozilla Clubs para compartilhar as melhores práticas e contribuir com conteúdo novo e/ou adaptado.
 
-**It’s easy to get started!** Start a Mozilla Club with an initial group of peers, experiment with our activities and adapt them to your groups’ interests. We recommend starting with the Web Literacy Basics module, which is comprised of six activities, each approximately 45 minutes in length.
-* The activities make great ice breakers, with the added benefit of learning new skills.
-* Help open the door to new life opportunities for you and your attendees with activities focused on professional skills and networking.
-* Encourage participants to try the activities together and then to teach them others.
+**É fácil começar!** Comece o Mozilla Clubs com um grupo inicial de pessoas, experimente iniciar com as atividades básicas já disponíveis em http://teach.mozilla.org. Recomendamos começar com o módulo Alfabetização Web Básica, que é composta por seis atividades, cada um cerca de 45 minutos de duração.
+* As atividades fazem grandes quebra-gelos, com o benefício adicional de aprender novas habilidades;
+* Ajuda a abrir a porta a novas oportunidades de vida para você e seus participantes com atividades voltadas à qualificação profissional e networking;
+* Incentive os participantes a experimentar as atividades em conjunto para ensinar os demais.
 
 <div class="text-center">
     
@@ -55,19 +55,17 @@ As a Mozilla Club Captain in this context, you can:
 </div>
 
 
-We’re here to help you through the process of starting a Mozilla Club in your community. 
-* **Materials:** We have training materials available online at teach.mozilla.org.
-* **Offline and low-connectivity oriented activities:** We offer activities suited for your neighborhood situation. This include adaptations on current curriculum and special activities developed specific for this type of scenario.
-* **Individual support:** When you start a Mozilla Club, you’ll be assigned a Regional Coordinator to help you get set up and find the most relevant resource.
-* **Peer support:** Ask questions, share challenges or successes, or connect with others who are running similar programs at their community meet-ups in our online forum (Discourse). 
+Nós estamos aqui para ajudá-lo a começar um Mozilla Club em sua comunidade. 
+* **Materiais:** materiais de ensino disponíveis online em teach.mozilla.org;
+* **Atividades para baixa ou nula conectividade:** Oferecemos atividades adequadas para sua situação. Incluem adaptações no currículo atual e atividades especiais desenvolvidas específico para esse tipo de cenário;
+* **Suporte individual:** Quando você inicia uma Mozilla Clubs, você vai ser atribuído a um Coordenador Regional para ajudar você a iniciar e dar suporte sempre que necessário;
+* **Apoio do time:** Faça perguntas, desafios,  ações de sucesso ou se conecte com outras pessoas que estão executando programas semelhantes na sua comunidade.
 
+São estudos de caso...
+* Associação de bairro
+* Local compartilhado de grupos de interesse
+* Escolas rurais
+* Projetos sociais de comunidades carentes
+* Capacitação de pessoas para se preparar e encontrar novas carreiras
 
-
-Case Study (To come...)
-* Neighborhood association
-* Local shared interest group
-* Rural schools
-* Poor communities social projects
-* Empowerment of people and finding new careers
-
-**For more information:** Visit [teach.mozilla.org/clubs](http://teach.mozilla.org/clubs) or contact Andre Alves Garzia at [andre@mozillafoundation.org](andre@mozillafoundation.org).
+**Para mais informações:** Visite [teach.mozilla.org/clubs](http://teach.mozilla.org/clubs).
