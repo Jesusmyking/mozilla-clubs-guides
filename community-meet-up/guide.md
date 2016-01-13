@@ -1,60 +1,58 @@
 ---
-title: Mozilla Clubs em encontros na sua comunidade local
+title: Mozilla Clubs em encontros na sua comunidade
 ---
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
-# A Mozilla Club At Your Community Meet-Up
+# Mozilla Clubs em encontros na sua comunidade
 
-> Mix-up your meet-up by adding hands-on activities that get your participants making and learning the web together!
+> Diversifique seu encontro adicionando atividades práticas que seus participantes começam criando e aprendendo a web juntos!
 
-You meet regularly/semi-regularly with a group of individuals who come together around common interests or topics. Perhaps they are adults or young professionals coming together for general networking, or to build and develop new skills. With Mozilla Clubs, you can connect your community to a global initiative, using participatory practices and bringing peer-learning into your existing meet-up structure. 
+Você se reúnem regularmente/semi-regularmente com um grupo de indivíduos que se reúnem em torno de interesses comuns. Talvez  são adultos ou jovens que se juntam para construir e desenvolver novas habilidades. Com Mozilla Clubs, você pode conectar sua comunidade a uma iniciativa global, utilizando práticas participativas e trazendo a aprendizagem em grupo para os encontros na sua comunidade.
 
-**Mozilla Clubs add value to your meet-ups** by:
-* Bringing elements of reading, writing and participating on the web into your context, and connecting topics your community cares about with engaging, hands-on learning activities that teach how to read, write and participate on the web
-* Providing opportunities for participants to make, learn and get to know one another
-* Strengthening your community by connecting with a global mission while planting local roots for positive social impact
+**Mozilla Clubs agregam valores aos seus encontros**:
+* Trazendo elementos de leitura, escrita e participação na web em seu contexto e conectando temas que a comunidade se preocupa com o exercício de atividades de aprendizagem prática que ensinam  a ler, escrever e participar da web;
+* Proporcionar oportunidades para os participantes criarem, aprenderem e conhecerem um ao outro;
+* Fortalecendo sua comunidade através da ligação com uma missão global ao plantar raízes locais para um impacto social positivo.
 
-**Mozilla Clubs motivate your meet-up attendees** by:
-* Learning new web skills, including how to read, write and participate on the web
-* Empowering others (in their school, workplace, community, etc.) to see the web as a global platform for creativity and sharing
-* Joining a global community with a mission
-
-
+**Mozilla Clubs motiva os participantes a se encontrarem para**:
+* Aprender novas habilidades da web, incluindo ler, escrever e participar da web;
+* Capacitar os outros (em sua escola, local de trabalho, comunidade, etc.) para ver a web como uma plataforma global para a criatividade e compartilhamento;
+* Ligar sua comunidade a uma missão global.
 
 
 
 
-## How and why you should incorporate Mozilla Clubs into your meet-up
 
-As a meet-up host, or Mozilla Club Captain in this context, you can:
-* Uplevel your own mentoring skills.
-* Create or adapt activities that are focused on the same things your community cares about.
-* Join a global network and connect with other Mozilla Club Captains to share best practices and contribute new/adapted content.
 
-**It’s easy to get started!** Introduce Mozilla Clubs activities at your regular meet-up and adapt them to your groups’ interests. We recommend starting with the Web Literacy Basics module, which is comprised of six activities, each approximately 45 minutes in length.
-The activities make great ice breakers, with the added benefit of learning new skills.
-Try a “Read, Write, Participate” theme for your meet-up for one month (or for a season) and facilitate one activity at each meet-up during that timeframe.
-Encourage participants to try the activities together and then to teach them to others before your next meet-up.
+## Como e por que você deve incorporar Mozilla Clubs em seu encontro
+
+Como líder do encontro ou Capitão de Mozilla Clubs, neste contexto, é possível:
+* Usar suas prórpias habilidades de tutoria.
+* Criar ou adaptar as atividades que estão centradas nas mesmas coisas que sua comunidade se preocupa.
+* Juntar-se a uma rede global e se conectar com outros Capitães de Mozilla Clubs para compartilhar as melhores práticas e contribuir com conteúdo novo/adaptado.
+
+**É fácil começar!** Inicie introduzindo atividades de Mozilla Clubs em seus encontros regulares e e adapte-as aos interesses dos seus grupos. Recomendamos começar com o módulo Alfabetização Web Básica, que é composta por seis atividades, cada uma com aproximadamente 45 minutos de duração.
+As atividades fazem grandes quebra-gelos, com o benefício adicional de aprender novas habilidades.
+Tente organizar um "Ler, Escrever e Participar da Web" como tema para o seu encontro uma vez ao mês (ou por uma temporada) e seja o facilitador das atividades em cada encontro durante esse período de tempo.
+Incentive os participantes a experimentarem as atividades em conjunto e, em seguida, para ensiná-los a outras pessoas antes de seu próximo encontro.
 
 <div class="text-center">
-**You can do it!** <br>
-![Facilitator](img/clubs.png)<br>
+**Você pode fazer isso!** <br>
+![Facilitador](img/clubs.png)<br>
 </div>
 
 
 
-We’re here to help you through the process of embedding a Mozilla Club into your community meet-ups. 
-* **Materials:** We have training materials available online at teach.mozilla.org.
-* **Individual support:** When you start a Mozilla Club, you’ll be assigned a Regional Coordinator to help you get set up and find the most relevant resource.
-* **Peer support:** Ask questions, share challenges or successes, or connect with others who are running similar programs at their community meet-ups in our online forum (Discourse). 
+Estamos aqui para ajudá-lo através do processo de incorporação de um Mozilla clube em seus encontros na comunidade.
+* **Materiais:** Temos materiais de treinamento disponíveis on-line em teach.mozilla.org.
+* **Suporte individual:** Quando você inicia um Mozilla Club, você será atribuído a um Coordenador Regional para ajudar você a configurar e encontrar os recursos mais relevantes.
+* **Apoio em grupo:** Faça perguntas, compartilhe desafios e sucessos de ações, conecte-se com outras pessoas que estão executando programas similares em encontros na comunidade local ou em nosso fórum on-line (Discourse).
 
 
 
-* Case Study (To come...)
-* Local Mozilla Community
-* Hive meet-up
-* Local developer group
+* Estudos de caso
+	* Comunidade Mozilla local
+	* Encontros Hive
+	* Grupo de desenvolvedores locais
 
-**For more information:** Visit [teach.mozilla.org/clubs](http://teach.mozilla.org/clubs) or contact [Lainie DeCoursy](mailto:lainie@mozillafoundation.org).
-
-
+**Para mais informações:** Visite [teach.mozilla.org/clubs](http://teach.mozilla.org/clubs) ou contate [Lainie DeCoursy](mailto:lainie@mozillafoundation.org).
