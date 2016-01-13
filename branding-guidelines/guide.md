@@ -5,7 +5,7 @@ title: Diretrizes de Marca
 
 # Diretrizes de Marca
 
-(1) **Club name**. You may, but are not required to, use the name “Mozilla Clubs” in your club’s name. Further identify your club by your location, region, group or interests. Here are the names of some current clubs: Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
+(1) **Nome do clube**. Você pode, mas não é obrigado a usar o nome "Mozilla Clubs" no nome do seu clube. Mas pode identificar seu clube pela sua localização, região, grupo ou interesses. Aqui estão os nomes de alguns clubes atuais: Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
 
 (2) **Club references**. Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers.)
 
