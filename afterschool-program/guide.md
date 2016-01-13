@@ -1,9 +1,9 @@
 ---
-title: Programa após a aula
+title: Mozilla Clubs em programa após a aula
 ---
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
-# Mozilla Clubs no programa após a aula
+# Mozilla Clubs em programa após a aula
 
 ## O que é?
 Mozilla Clubs é uma oportunidade de trazer regularmente ensino de habilidades e competências digitais no ambiente pós aula e participar de uma comunidade global de professores e alunos. Os programas pós aula são o cenário ideal para os educadores e participantes depois da aula ensinarem e aprenderem habilidades de alfabetização digital adaptando o currículo de alfabetização web. A Mozilla é uma fundação sem fins lucrativos, mais conhecido por seu produto o Mozilla Firefox, e cuja missão é o desenvolvimento livre e de código aberto, de ferramentas e recursos para a alfabetização universal web. Ao envolver-se com o Mozilla Clubs, você irá conectar-se a uma comunidade global, utilizando boas práticas de participação e aprendizagem.
