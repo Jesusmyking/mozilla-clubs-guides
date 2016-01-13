@@ -1,10 +1,10 @@
 ---
-title: A Mozilla Club In Your Established Program
+title: Mozilla Clubs em programa existente
 ---
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
 
-# A Mozilla Club In Your Established Program
+# Mozilla Clubs em programa existente
 
 
 **How Mozilla Clubs can add an educational dynamic to your already established club meet up.**
