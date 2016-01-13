@@ -43,6 +43,7 @@ Incentive os participantes a experimentarem as atividades em conjunto e, em segu
 
 
 
+
 Estamos aqui para ajudá-lo através do processo de incorporação de um Mozilla clube em seus encontros na comunidade.
 * **Materiais:** Temos materiais de treinamento disponíveis on-line em teach.mozilla.org.
 * **Suporte individual:** Quando você inicia um Mozilla Club, você será atribuído a um Coordenador Regional para ajudar você a configurar e encontrar os recursos mais relevantes.

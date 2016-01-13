@@ -1,5 +1,5 @@
 ---
-title: Bairros com baixa conectividade
+title: Mozilla Clubs em bairros com baixa conectividade
 ---
 ![Imgur](http://i.imgur.com/LWGqCAS.png?1)
 
