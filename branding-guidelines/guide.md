@@ -7,19 +7,19 @@ title: Diretrizes de Marca
 
 (1) **Nome do clube**. Você pode, mas não é obrigado a usar o nome "Mozilla Clubs" no nome do seu clube. Mas pode identificar seu clube pela sua localização, região, grupo ou interesses. Aqui estão os nomes de alguns clubes atuais: Mozilla Club Rio, Mozilla Club Jahangirnagar University, Cikarang Mozilla Club, Mozilla Club for the Chicago Librarians.
 
-(2) **Club references**. Your use of “Mozilla Club” to refer to your Club must always be in combination with the location, region, group, or interest you are using to identify your club. (For clarity, you may nonetheless state that your club is “a Mozilla Club,” without the additional identifiers.)
+(2) **Referências do clube**. O uso de "Mozilla Club" para se referir ao seu clube devem estar sempre em combinação com a localização, região, grupo ou interesse que você está usando para identificar o seu clube. (Para maior clareza, você pode, contudo, afirmar que o seu clube é "um Mozilla Club," sem os identificadores adicionais.)
 
-OKAY
-- Join our Mozilla Club Rio! We are a Mozilla Club in the city of Rio de Janeiro, Brazil.
-- This is the website for the Mozilla Club for the Chicago Librarians.
+CERTO
+- Junte-se ao nosso Mozilla Club Rio! Somos uma Mozilla Club, na cidade do Rio de Janeiro, Brasil.
+- Este é o site do Mozilla Club para Bibliotecários de Chicago.
 
-NOT OKAY
-- Join Mozilla Clubs!
-- This is the website for Mozilla Clubs.
+ERRADO
+- Junte-se a Mozilla Clubs!
+- Este é o site de Mozilla Clubs.
 
-(3) **Logo**. While standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), we welcome you to [use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates these wordmarks.
+(3) **Logotipo**. Enquanto usos individuais da marca "Mozilla" e "Mozilla Clubs" estão limitados ao que é permitido sob [política da marca Mozilla](https://www.mozilla.org/en-US/foundation/trademarks/policy/), nós te convidamos [a usar esse modelo para criar um novo logotipo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) que já incorpora a marca.
 
-(4) **Domain names**. You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an [application for a license to use a domain name related to a Mozilla trademark](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
+(4) **Nomes de domínios**. Você pode usar o nome de seu clube, e pode incluir o nome da Mozilla em nome de domínio para qualquer site que você cria para o seu clube. Para quaisquer outros usos do nome Mozilla em seu nome de domínio, por favor faça um [pedido de licença para utilizar um nome de domínio relacionado com a marca Mozilla](http://static.mozilla.com/foundation/documents/domain-name-license.pdf).
 
 If you have a club domain name that contains the Mozilla name and at any point decide to stop running your club, you must stop using the domain name and may not employ it for other purposes.
 
