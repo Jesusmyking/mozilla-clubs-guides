@@ -30,6 +30,6 @@ Em sua próxima reunião de trabalho, compartilhe as atividades do Mozilla Clubs
 Nós estamos aqui para ajudar você com o processo de integração do Mozilla Club.
 * **Materiais:** nós temos materiais, disponíveis online em: [teach.mozilla.org/activities](http://teach.mozilla.org/activities)
 * **Suporte individual:**  quando você iniciar um Mozilla Club, você será direcionado a um Coordenador Regional, que tem a responsabilidade de ajudar você a iniciar, buscar recursos relevantes e fornecer suporte. 
-* **Apoio em grupo:**  um fórum online (Discourse) fornece oportunidades para aprender com outras pessoas ao redor do mundo, usando o currículo do Mozilla Club. Você pode fazer perguntas, compartilhar desafios ou êxitos, ou conectar-se com outros pessoas que incorporaram o projeto em seus programas de pós aula.
+* **Apoio em grupo:**  um fórum online [Discourse](http://discourse.webmaker.org/) fornece oportunidades para aprender com outras pessoas ao redor do mundo, usando o currículo do Mozilla Club. Você pode fazer perguntas, compartilhar desafios ou êxitos, ou conectar-se com outros pessoas que incorporaram o projeto em seus programas de pós aula.
 
 **Para mais informações:**  visite [teach.mozilla.org/clubs](http://teach.mozilla.org/clubs)
