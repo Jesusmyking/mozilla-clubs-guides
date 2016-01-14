@@ -7,19 +7,18 @@ title: Mozilla Clubs em programa existente
 # Mozilla Clubs em programa existente
 
 
-**How Mozilla Clubs can add an educational dynamic to your already established club meet up.**
+**Como Mozilla clubes pode adicionar uma dinâmica educacional para o seus encontros já estabelecidos de um programa existente.**
 
-**Do you already run  a weekly or monthly meet up in a club setting?** Mozilla Clubs are designed so that they can be used as a compliment to your existing structure without changing the nature of your group. You can embed a web literacy club in your programming  without losing your club’s identity.
+**Você já organiza encontros semanais e mensais em um cenário de clube?** Mozilla Clubs são projetados de modo que eles podem ser usados como complemento à sua estrutura existente sem alterar a natureza do seu grupo. Você pode embutir um clube de alfabetização web em sua programação local, sem perder a identidade de seu clube.
 
-Do you already have a program running such as summer camp, teen leadership summit, or local community meeting up? A gathering of young adults who want to learning new digital skills that enables better jobs and opportunities, or an older generation eager to learn new skills and understand how the internet work.
+Você já tem um programa funcionando, tais como acampamento de verão, conferência de adolescentes protagonistas ou local de reunião para a comunidade local? Uma reunião de jovens adultos que querem aprender novas habilidades digitais que permitem empregos e oportunidades melhores ou para as pessoas que buscam uma recolocação e estão ansiosas para aprederem novas habilidades e entendercomo a wnternet funciona.
 
-## Why
-Teach like mozilla offers curriculum you can teach on a regular basis to your club attendees that can add great educational benefits to your existing club agenda. Mozilla clubs is offering web literacy tools and resources which can be used to further skills in reading, writing and participation on the web.
+## Por que?
+A Mozilla oferece currículo que você pode ensinar regularmente para os participantes do clube que podem adicionar muitos benefícios educacionais para sua programação existente. Mozilla Clubs está oferecendo ferramentas de alfabetização web e recursos que podem ser usados para outras habilidades em leitura, escrita e participação na web.
 
-
-## How
-As an established club you already have a classroom of learners whether you meet in the local library, community centre or around the kitchen table. You have an established group with work together with an invested goal.  Mozilla clubs can be an added dynamic to your meet up, providing activities with a clear goal and outcome around digital education. We want to help facilitate your club members learning by showing you how to teach with open practices and learning through making. Mozilla clubs are formed at a local level but to a global community, you are leading and learning as a larger team. 
-We actively encourage group participation, learning through sharing and hands on activities. 
+## Como?
+Você já tem programa existente e funcionando, dessa forma já tem uma sala de aula de alunos que se reúnem na biblioteca, centro comunitário local ou ao redor da mesa de uma cozinha. Você tem um grupo estabelecido com o foco em uma meta já estabelecida. Mozilla Clubs pode agregar ao seu programa como um momento especial de descontração e aprendizagem, proporcionando atividades com um objetivo claro e resultados em torno da educação digital. Queremos ajudar os sócios do clube mostrando-lhes como ensinar com as práticas abertas. Mozilla Clubs são formados a nível local, mas ligados a uma comunidade global, você está liderando e aprendendo com uma equipe maior.
+Nós encorajamos ativamente a participação do grupo, aprendizagem através do compartilhamento e de atividades práticas.
 
 **Getting started** is easy  We have the curriculum laid out and ready for you to take to the top of the room.-Club captains, that’s you!, are given access to curriculum with the agenda to read, write and participate on the open web. Built, tested curriculum built by established teachers and educational bodies from around the world. There are activities within each lesson, encouraging group participation and mentorship.
 Adjust the curriculum to suit your own needs and according to your own directives. We have forums where educators can ask questions or ask for help on any topics. 
