@@ -13,13 +13,9 @@ Neste pacote, você encontrará:
 
 * Um guia de início para criar sites e blogs no [Wordpress.com](https://wordpress.com/).
 
-* Um guia de início para criar um microblog no [Tumblr](https://www.tumblr.com/).
-
-* Um guia de início para contar histórias no [Medium](https://medium.com/).
-
 * Remixando um site modelo em HTML, CSS e JS.
 
-* Dicas de ferramentas alternativas para criar sites e blog.
+* Dicas de ferramentas alternativas para criar sites, blogs e contar histórias.
 
 * Compartilhe o seu site e sua experiência.
 
@@ -28,8 +24,10 @@ Neste pacote, você encontrará:
 #### O que é um domínio?
 Domínio é um nome que serve para localizar e identificar o seu espaço na internet. O domínio é a base de toda a sua identificação na Internet. É o “nome” do seu site e dos seus e-mails. Ele é composto por um nome e uma extensão, exemplo:
 
-**leaomozillaclubs.com**<br>
-Nome: leaomozillaclubs <br>
+
+**leaomozillaclubs.com**
+Nome: leaomozillaclubs
+
 Extensão: .com 
 
 Estes nomes são normalmente chamados de "domínios" (por exemplo: mozilla.org é o nosso domínio). 
@@ -112,16 +110,46 @@ Após a configuração, primeira postagem, organização de menu e criação de 
 
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-18-48.png)
 
-## #3 Criando um microblog no Tumblr
+## #3 Remixando um site modelo em HTML, CSS e JS
 
-## #4 Contando histórias no Medium
+Se você tem super poderes digitais e já desenvolve com HTML, CSS e Javascript você pode remixar o código do fantástico layout criado pelo [Leão Mozilla Clubs](https://leaomozillaclubs.com/).
 
-## #5 Remixando um site modelo em HTML, CSS e JS
+![Imgur](screenshots/Captura de tela de 2016-01-28 11-43-20.png)
 
-## #6 Dicas de ferramentas alternativas para criar sites e blog
+O layout criado pelo [Leão Mozilla Clubs](https://leaomozillaclubs.com/) é fácil de modificar e você pode apenas adicionar seu conteúdo e suas imagens!
 
-## #7 Compartilhe o seu site e sua experiência.
+1. **Download.** Fazendo download e descompactando o arquivo.
+Faça download do layout pelo [GitHub](https://github.com/LeaoMozillaClubs/leaomozillaclubs.github.io/archive/master.zip/) e descompacte o arquivo.
+![Imgur](screenshots/Captura de tela de 2016-01-28 11-53-07.png)
+
+2. **Pastas e arquivos.** Abra a pasta descompactada e veja os arquivos e pastas que você encontra. Fique atento para os caminhos e arquivos de onde você deve alterar:
+
+**index.html** => Aqui é onde você vai editar a pagina inicial.
+
+**/images/home** => Aqui estão as imagens da pagina inicial, você pode adicionar mais imagens a vontade e excluir as existentes.
+
+3. **Edite HTML.** A pagina onde fica o conteúdo é a inicial, dessa forma você deve alterar o **index.html**, no [Sublime Text](https://www.sublimetext.com/) é fácil editar esse arquivo, todos os textos destacados em **branco** são dos textos existentes na pagina inicial, basta alterar. Nos locais onde há imagens coloque o nome dos arquivos das imagens novas. Ficou fácil?
+![Imgur](screenshots/Captura de tela de 2016-01-28 12-03-14.png)
+
+3. **Publique.** Você pode publicar isso de 2 formas fáceis: por meio do [GitHub Pages](https://pages.github.com/) ou conseguindo uma hospedagem e sub-domínio da infraestrutura web de sua comunidade Mozilla local.
+
+No [GitHub Pages](https://pages.github.com/) é muito fácil, basta criar um repositório com o nome dessa forma "[usuário do GitHub].github.io", faça o upload para o GitHub dos arquivos e pronto, o site está publicado no endereço criado pelo nome do repositório.
+![Imgur](screenshots/Captura de tela de 2016-01-28 12-12-08.png)
+
+
+## #4 Dicas de ferramentas alternativas para criar sites, blogs e contar histórias
+
+#### [Mobirise](https://mobirise.com/)
+![Imgur](screenshots/Captura de tela de 2016-01-28 12-39-24.png)
+
+#### [Medium](https://medium.com/)
+![Imgur](screenshots/Captura de tela de 2016-01-28 12-43-43.png)
+
+#### [Tumblr](https://www.tumblr.com/)
+![Imgur](screenshots/Captura de tela de 2016-01-28 12-46-57.png)
+
+## #5 Compartilhe o seu site e sua experiência.
 
 Publique o endereço do seu novo site e nos conte como foi a experiência em criar um site para seu clube, compartilhe em nosso fórum no [Discourse](https://discourse.webmaker.org/)
 
-Se você tiver alguma dúvida, por favor, envie um e-mail para [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
+Se você tiver alguma dúvida, por favor, envie um e-mail para  [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
