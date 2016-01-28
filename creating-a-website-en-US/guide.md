@@ -1,11 +1,14 @@
 ---
-title: Criando um site
+title: Criando um Site 
+title: Creating a website
 ---
 ![Imgur](img/leaomozillaclubs_website.png)
 
 # Criando um site e compartilhando experiências
+# Creating a website and sharing experiences
 
 > Mostre ao mundo o que o seu clube está fazendo de fantástico e diferente com um site! Criar um blog ou site estático é fácil e pode ser feito com ferramentas de simples gerenciamento.
+> Show the world what your club is doing fantastic and different with a website! Create a blog or static website is easy and can be done with simple management tools.
 
 Neste pacote, você encontrará:
 
@@ -19,26 +22,57 @@ Neste pacote, você encontrará:
 
 * Compartilhe o seu site e sua experiência.
 
+
+In this package you will find:
+
+* A guide explaining what domain name, web hosting and CMS.
+
+* A start guide to create websites and blogs in [Wordpress.com] (https://wordpress.com/).
+
+* Remixing a model site in HTML, CSS and JS.
+
+* Tips alternative tools for creating websites, blogs and tell stories.
+
+* Share your website and your experience.
+
+
 ## #1 Entendendo como funciona um site
+## #1 Understanding how it works a site
 
 #### O que é um domínio?
 Domínio é um nome que serve para localizar e identificar o seu espaço na internet. O domínio é a base de toda a sua identificação na Internet. É o “nome” do seu site e dos seus e-mails. Ele é composto por um nome e uma extensão, exemplo:
 
+#### What is a domain?
+Domain is a name that is used to locate and identify your space on the internet. The domain is the basis of all their identification on the Internet. It is the "name" of your website and your emails. It consists of a name and extension, for example:
 
 **leaomozillaclubs.com**
 Nome: leaomozillaclubs
+Name: leaomozillaclubs
 
 Extensão: .com 
+Extension: .com
 
 Estes nomes são normalmente chamados de "domínios" (por exemplo: mozilla.org é o nosso domínio). 
+These names are usually called "domains" (for example: mozilla.org is our domain). 
 
 O nome de domínio foi criado com o objetivo de facilitar a memorização dos endereços de computadores na Internet. Sem ele, teríamos que memorizar uma sequência grande de números.
+
+The domain name was created in order to facilitate the memorization of computer Internet addresses. Without it, we would have to memorize a large number sequence.
+
 
 #### O que é uma hospedagem de sites?
 Hospedagem de site é o serviço de armazenamento de um site e disponibilização constante do mesmo na internet, ou seja, o serviço de hospedagem possibilitará que seu site seja visualizado 24h por dia em todo o mundo.
 
+#### What is a web hosting?
+Web hosting is the storage service from a website and constant availability of the same on the Internet, that is, the hosting service will allow your site to be viewed 24 hours a day worldwide.
+
+
 #### O que é CMS?
 Os "Content Management System – Sistema de Gerenciamento de Conteúdo" são, em grande parte, softwares livres, desenvolvido por programadores do mundo inteiro, onde o usuário pode editar e criar conteúdo para seus sites com grande facilidade.
+
+#### What is CMS?
+The "Content Management System - Content Management System" are largely free software, developed by programmers around the world, where the user can edit and create content for their websites with great ease.
+
 
 ## #2 Criando um site e blog no Wordpress.com
 
