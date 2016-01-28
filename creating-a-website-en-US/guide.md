@@ -150,6 +150,6 @@ No [GitHub Pages](https://pages.github.com/) é muito fácil, basta criar um rep
 
 ## #5 Compartilhe o seu site e sua experiência.
 
-Publique o endereço do seu novo site e nos conte como foi a experiência em criar um site para seu clube, compartilhe em nosso fórum no [Discourse](https://discourse.webmaker.org/)
+Publique o endereço do seu novo site e nos conte como foi a experiência em criar um site para seu clube, compartilhe em nosso fórum no [Discourse](https://discourse.webmaker.org/).
 
 Se você tiver alguma dúvida, por favor, envie um e-mail para  [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
