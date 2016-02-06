@@ -1,13 +1,10 @@
 ---
-title: Criando um Site 
 title: Creating a website
 ---
 ![Imgur](img/leaomozillaclubs_website.png)
 
-# Criando um site e compartilhando experiências
 # Creating a website and sharing experiences
 
-> Mostre ao mundo o que o seu clube está fazendo de fantástico e diferente com um site! Criar um blog ou site estático é fácil e pode ser feito com ferramentas de simples gerenciamento.
 > Show the world what your club is doing fantastic and different with a website! Create a blog or static website is easy and can be done with simple management tools.
 
 Neste pacote, você encontrará:
