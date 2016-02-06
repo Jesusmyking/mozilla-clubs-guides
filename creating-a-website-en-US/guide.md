@@ -7,19 +7,6 @@ title: Creating a website
 
 > Show the world what your club is doing fantastic and different with a website! Create a blog or static website is easy and can be done with simple management tools.
 
-Neste pacote, você encontrará:
-
-* Um guia explicando o que é nome de domínio, hospedagem de sites e CMS.
-
-* Um guia de início para criar sites e blogs no [Wordpress.com](https://wordpress.com/).
-
-* Remixando um site modelo em HTML, CSS e JS.
-
-* Dicas de ferramentas alternativas para criar sites, blogs e contar histórias.
-
-* Compartilhe o seu site e sua experiência.
-
-
 In this package you will find:
 
 * A guide explaining what domain name, web hosting and CMS.
@@ -33,7 +20,6 @@ In this package you will find:
 * Share your website and your experience.
 
 
-## #1 Entendendo como funciona um site
 ## #1 Understanding how it works a site
 
 #### O que é um domínio?
