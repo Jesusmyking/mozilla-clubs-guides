@@ -13,35 +13,25 @@ In this package you will find:
 
 * A start guide to create websites and blogs in [Wordpress.com] (https://wordpress.com/).
 
-* Remixing a model site in HTML, CSS and JS.
+* Remixing a template website in HTML, CSS and JS.
 
 * Tips alternative tools for creating websites, blogs and tell stories.
 
-* Share your website and your experience.
+* Share your website and experiences.
 
 
 ## #1 Understanding how it works a site
-
-#### O que é um domínio?
-Domínio é um nome que serve para localizar e identificar o seu espaço na internet. O domínio é a base de toda a sua identificação na Internet. É o “nome” do seu site e dos seus e-mails. Ele é composto por um nome e uma extensão, exemplo:
 
 #### What is a domain?
 Domain is a name that is used to locate and identify your space on the internet. The domain is the basis of all their identification on the Internet. It is the "name" of your website and your emails. It consists of a name and extension, for example:
 
 **leaomozillaclubs.com**
-Nome: leaomozillaclubs
 Name: leaomozillaclubs
+Extension: ".com"
 
-Extensão: .com 
-Extension: .com
-
-Estes nomes são normalmente chamados de "domínios" (por exemplo: mozilla.org é o nosso domínio). 
 These names are usually called "domains" (for example: mozilla.org is our domain). 
 
-O nome de domínio foi criado com o objetivo de facilitar a memorização dos endereços de computadores na Internet. Sem ele, teríamos que memorizar uma sequência grande de números.
-
 The domain name was created in order to facilitate the memorization of computer Internet addresses. Without it, we would have to memorize a large number sequence.
-
 
 #### O que é uma hospedagem de sites?
 Hospedagem de site é o serviço de armazenamento de um site e disponibilização constante do mesmo na internet, ou seja, o serviço de hospedagem possibilitará que seu site seja visualizado 24h por dia em todo o mundo.
