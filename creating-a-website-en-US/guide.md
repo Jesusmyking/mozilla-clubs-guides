@@ -93,35 +93,35 @@ Now that you know what is Wordpress.com, let's get started by creating an accoun
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-52-12.png)
 
 #### Other tools to explore and discover.
-Existem muitas ferramentas para explorar e aprender no Wordpress.com, eu recomendo que você navegue pelo menu do painel de administração e assim vai descobrir novas maneiras de personalizar, criar páginas, mudar o tema, entre outros. Eu separei algumas seções para você conhecer primeiro, explorar e aprender na prática.
+There are many tools to explore and learn on Wordpress.com, I recommend that you browse through the administration panel menu and so will discover new ways to customize, create pages, change the theme, among others. I separated some sections for you to know first, explore and learn in practice.
 
-1. **Temas.** Você pode alterar o tema a qualquer momento.
+1. **Themes.** You can change the theme at any time.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-08-17.png)
 
-2. **Novas paginas.** Crie novas paginas estáticas.
+2. **News pages.** Create new static pages.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-08-52.png)
 
-3. **Organize o menu.** Você pode organizar o menu da maneira que quiser.
+3. **Organize menu.** You can organize the way you want menu.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-09-15.png)
 
-#### Versão final.
-Após a configuração, primeira postagem, organização de menu e criação de novas paginas, você já pode começar a divulgar o endereço do seu site nas redes sociais, para os amigos e membros do clube.
+#### Final version.
+After setup, first post, menu organization and creating new pages, you can start to disclose the address of your site on social networks for friends and members of the club.
 
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-18-48.png)
 
-## #3 Remixando um site modelo em HTML, CSS e JS
+## #3 Mixing a model site in HTML, CSS and JS
 
-Se você tem super poderes digitais e já desenvolve com HTML, CSS e Javascript você pode remixar o código do fantástico layout criado pelo [Leão Mozilla Clubs](https://leaomozillaclubs.com/).
+If you have digital super powers and is already developing with HTML, CSS and Javascript you can remix the code fantastic layout created by [Leão Mozilla Clubs](https://leaomozillaclubs.com/).
 
 ![Imgur](screenshots/Captura de tela de 2016-01-28 11-43-20.png)
 
-O layout criado pelo [Leão Mozilla Clubs](https://leaomozillaclubs.com/) é fácil de modificar e você pode apenas adicionar seu conteúdo e suas imagens!
+The layout created by [Leão Mozilla Clubs](https://leaomozillaclubs.com/) is easy to modify and you can just add your content and images!
 
-1. **Download.** Fazendo download e descompactando o arquivo.
-Faça download do layout pelo [GitHub](https://github.com/LeaoMozillaClubs/leaomozillaclubs.github.io/archive/master.zip/) e descompacte o arquivo.
+1. **Download.** Downloading and unzipping the file.
+Download the layout at [GitHub](https://github.com/LeaoMozillaClubs/leaomozillaclubs.github.io/archive/master.zip/) and unzip the file.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 11-53-07.png)
 
-2. **Pastas e arquivos.** Abra a pasta descompactada e veja os arquivos e pastas que você encontra. Fique atento para os caminhos e arquivos de onde você deve alterar:
+2. **Folders and files.** Open the unzipped folder and view the files and folders that you find. Stay tuned for the paths and files where you must change:
 
 **index.html** => Aqui é onde você vai editar a pagina inicial.
 
