@@ -34,33 +34,25 @@ These names are usually called "domains" (for example: mozilla.org is our domain
 
 The domain name was created in order to facilitate the memorization of computer Internet addresses. Without it, we would have to memorize a large number sequence.
 
-#### O que é uma hospedagem de sites?
-Hospedagem de site é o serviço de armazenamento de um site e disponibilização constante do mesmo na internet, ou seja, o serviço de hospedagem possibilitará que seu site seja visualizado 24h por dia em todo o mundo.
-
 #### What is a web hosting?
 Web hosting is the storage service from a website and constant availability of the same on the Internet, that is, the hosting service will allow your site to be viewed 24 hours a day worldwide.
-
-
-#### O que é CMS?
-Os "Content Management System – Sistema de Gerenciamento de Conteúdo" são, em grande parte, softwares livres, desenvolvido por programadores do mundo inteiro, onde o usuário pode editar e criar conteúdo para seus sites com grande facilidade.
 
 #### What is CMS?
 The "Content Management System - Content Management System" are largely free software, developed by programmers around the world, where the user can edit and create content for their websites with great ease.
 
 
-## #2 Criando um site e blog no Wordpress.com
+## #2 Creating a website and blog on Wordpress.com
 
-#### O que é [Wordpress.com](https://wordpress.com/)?
+#### What is [Wordpress.com](https://wordpress.com/)?
+WordPress is the most popular online publishing platform. It is open source, and used by more than 20% of the Web. Wordpress.com is an online service, a hosted version of open source software. You can start a blog or website in seconds without technical knowledge.
 
-WordPress é a mais popular  plataforma de publicação online. É open source, e utilizada por mais de 20% da Web. O Wordpress.com é um serviço online, uma versão hospedada do software open source. Você pode começar um blog ou site em segundos, sem precisar de conhecimentos técnicos.
+**Almost everything at WordPress.com is free.**
 
-**Quase tudo no WordPress.com é grátis.**
+#### Accessing, by registering and creating your first blog site.
 
-#### Acessando, registrando-se e criando o seu primeiro site blog.
+Now that you know what is Wordpress.com, let's get started by creating an account and a new blog on the platform.
 
-Agora que você sabe o que é Wordpress.com, vamos dar os primeiros passos criando uma conta e um novo blog na plataforma.
-
-1. **Acesse Wordpress.com** e clique no botão ["Create Website"](https://wordpress.com/start/themes/en).
+1. **Visit Wordpress.com** and click the button ["Create Website"](https://wordpress.com/start/themes/en).
 ![Imgur](screenshots/Captura de tela de 2016-01-27 22-55-14.png)
 
 2. **Tema**Agora para iniciar efetivamente você precisa escolher um tema bem bonito para seu site! Faça a escolha e dê um clique no seu tema preferido, o Wordpress.com tem muitos temas para você escolher, fique a vontade.
