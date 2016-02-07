@@ -51,43 +51,43 @@ WordPress is the most popular online publishing platform. It is open source, and
 
 Now that you know what is Wordpress.com, let's get started by creating an account and a new blog on the platform.
 
-1. **Visit Wordpress.com** and click the button ["Create Website"](https://wordpress.com/start/themes/en).
+1.**Visit Wordpress.com** and click the button ["Create Website"](https://wordpress.com/start/themes/en).
 ![Imgur](screenshots/Captura de tela de 2016-01-27 22-55-14.png)
 
-2. **Theme** Now to actually start you need to choose a very beautiful theme for your site! Make your choice and click on your preferred theme, Wordpress.com has many themes to choose from, be my guest.
+2.**Theme** Now to actually start you need to choose a very beautiful theme for your site! Make your choice and click on your preferred theme, Wordpress.com has many themes to choose from, be my guest.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-00-38.png)
 
-3. **It's time to choose the domain**, what is the address of your web site. It is through him that people will know the way to get to your new site, be sure to create a cool area. The Wordpress.com offers the subdomain [name-club].wordpress.com free, but if you want a domain [.com] you can with a few bucks to have a short domain.
+3.**It's time to choose the domain**, what is the address of your web site. It is through him that people will know the way to get to your new site, be sure to create a cool area. The Wordpress.com offers the subdomain [name-club].wordpress.com free, but if you want a domain [.com] you can with a few bucks to have a short domain.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-02-45.png)
 
-4. **Choose a plan.** Know that the free plan is ideal for new sites and possess many features for you to create a fantastic site, it is sufficient to meet the needs of a club.
+4.**Choose a plan.** Know that the free plan is ideal for new sites and possess many features for you to create a fantastic site, it is sufficient to meet the needs of a club.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-03-43.png)
 
-5. **Now it's time to identify.** Enter your email, username and a strong password. Click "Create my Account" and wait for the Wordpress.com prepare your new site! <br>
+5.**Now it's time to identify.** Enter your email, username and a strong password. Click "Create my Account" and wait for the Wordpress.com prepare your new site! <br>
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-06-01.png)
 
-6. **Ready!** Now you can celebrate his club now has a new website! See the following topics to learn how to post and do cool things.
+6.**Ready!** Now you can celebrate his club now has a new website! See the following topics to learn how to post and do cool things.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-06-29.png)
 
 #### Using the admin panel and setting.
 
 **Before starting!** The Wordpress.com sent you an email to confirm your email address, make sure you open the email and click the confirmation link. That done, you are ready, you can continue!
 
-1. **Admin panel.** Let's start configuring! In the side menu you have access to several options, click "Settings".
+1.**Admin panel.** Let's start configuring! In the side menu you have access to several options, click "Settings".
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-31-45.png)
 
-2. **Configuration.** "General" you have access to the most simple settings such as site name, description and language. There are other more detailed settings, feel free to customize and make your way. After making changes click "Save Settings".
+2.**Configuration.** "General" you have access to the most simple settings such as site name, description and language. There are other more detailed settings, feel free to customize and make your way. After making changes click "Save Settings".
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-37-52.png)
 
 #### Posting articles.
 
-1. **Posts.** Here you can start creating posts! In "Blog Posts" in the "Add" button you can start to tell their stories.
+1.**Posts.** Here you can start creating posts! In "Blog Posts" in the "Add" button you can start to tell their stories.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-47-38.png)
 
-2. **Writing.** You realize that the tool is easy to understand, at the top you write the title in the text you have a number of options to mark your text leaving Bold and Italic, creating lists, numerical sequences, quotes, images, and other resources to use and will leave your cool text.
+2.**Writing.** You realize that the tool is easy to understand, at the top you write the title in the text you have a number of options to mark your text leaving Bold and Italic, creating lists, numerical sequences, quotes, images, and other resources to use and will leave your cool text.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-50-39.png)
 
-3. **Categories.** The categories are created to organize your posts on specific topics and sections, and you can create new categories by clicking on "Add a new category", type the name in lightbox which opened and then click "Add". <br>
+3.**Categories.** The categories are created to organize your posts on specific topics and sections, and you can create new categories by clicking on "Add a new category", type the name in lightbox which opened and then click "Add". <br>
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-50-55.png)
 
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-52-12.png)
@@ -95,13 +95,13 @@ Now that you know what is Wordpress.com, let's get started by creating an accoun
 #### Other tools to explore and discover.
 There are many tools to explore and learn on Wordpress.com, I recommend that you browse through the administration panel menu and so will discover new ways to customize, create pages, change the theme, among others. I separated some sections for you to know first, explore and learn in practice.
 
-1. **Themes.** You can change the theme at any time.
+1.**Themes.** You can change the theme at any time.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-08-17.png)
 
-2. **News pages.** Create new static pages.
+2.**News pages.** Create new static pages.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-08-52.png)
 
-3. **Organize menu.** You can organize the way you want menu.
+3.**Organize menu.** You can organize the way you want menu.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-09-15.png)
 
 #### Final version.
@@ -117,21 +117,21 @@ If you have digital super powers and is already developing with HTML, CSS and Ja
 
 The layout created by [Leão Mozilla Clubs](https://leaomozillaclubs.com/) is easy to modify and you can just add your content and images!
 
-1. **Download.** Downloading and unzipping the file.
+1.**Download.** Downloading and unzipping the file.
 Download the layout at [GitHub](https://github.com/LeaoMozillaClubs/leaomozillaclubs.github.io/archive/master.zip/) and unzip the file.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 11-53-07.png)
 
-2. **Folders and files.** 
+2.**Folders and files.** 
 Open the unzipped folder and view the files and folders that you find. Stay tuned for the paths and files where you must change:
 
 **index.html** => Here is where you can edit the home page.<br>
 **/images/home** => Here are the images of the homepage, you can add more images at will and delete existing ones.<br>
 
-3. **Edit HTML.** The page contains the content is original, therefore you must change the **index.html** in [Sublime Text](https://www.sublimetext.com/) is easy to edit this file, all texts highlighted in **white** are the existing texts on the home page, just change. Where there are images put the name of the new image files. It was easy?
+3.**Edit HTML.** The page contains the content is original, therefore you must change the **index.html** in [Sublime Text](https://www.sublimetext.com/) is easy to edit this file, all texts highlighted in **white** are the existing texts on the home page, just change. Where there are images put the name of the new image files. It was easy?
 
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-03-14.png)
 
-4. **Publish on the web.** You can publish it in two easy ways: via the [GitHub Pages](https://pages.github.com/) or getting a web hosting infrastructure and sub-domain of your Mozilla Local Community.
+4.**Publish on the web.** You can publish it in two easy ways: via the [GitHub Pages](https://pages.github.com/) or getting a web hosting infrastructure and sub-domain of your Mozilla Local Community.
 
 In [GitHub Pages](https://pages.github.com/) is very easy, just create a repository with the name of the form "[user GitHub].github.io," upload it to GitHub files and ready, the site is published at the address created by the repository name.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-12-08.png)
