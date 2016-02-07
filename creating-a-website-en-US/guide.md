@@ -27,6 +27,7 @@ Domain is a name that is used to locate and identify your space on the internet.
 
 **leaomozillaclubs.com**
 Name: leaomozillaclubs
+
 Extension: ".com"
 
 These names are usually called "domains" (for example: mozilla.org is our domain). 
