@@ -109,7 +109,7 @@ After setup, first post, menu organization and creating new pages, you can start
 
 ![Imgur](screenshots/Captura de tela de 2016-01-28 00-18-48.png)
 
-## #3 Mixing a model site in HTML, CSS and JS
+## #3 Remixing a template website in HTML, CSS and JS.
 
 If you have digital super powers and is already developing with HTML, CSS and Javascript you can remix the code fantastic layout created by [Leão Mozilla Clubs](https://leaomozillaclubs.com/).
 
@@ -121,22 +121,22 @@ The layout created by [Leão Mozilla Clubs](https://leaomozillaclubs.com/) is ea
 Download the layout at [GitHub](https://github.com/LeaoMozillaClubs/leaomozillaclubs.github.io/archive/master.zip/) and unzip the file.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 11-53-07.png)
 
-2. **Folders and files.** Open the unzipped folder and view the files and folders that you find. Stay tuned for the paths and files where you must change:
+2. **Folders and files.** 
+Open the unzipped folder and view the files and folders that you find. Stay tuned for the paths and files where you must change:
 
-**index.html** => Aqui é onde você vai editar a pagina inicial.
+**index.html** => Here is where you can edit the home page.<br>
+**/images/home** => Here are the images of the homepage, you can add more images at will and delete existing ones.<br>
 
-**/images/home** => Aqui estão as imagens da pagina inicial, você pode adicionar mais imagens a vontade e excluir as existentes.
+3. **Edit HTML.** The page contains the content is original, therefore you must change the **index.html** in [Sublime Text](https://www.sublimetext.com/) is easy to edit this file, all texts highlighted in **white** are the existing texts on the home page, just change. Where there are images put the name of the new image files. It was easy?
 
-3. **Edite HTML.** A pagina onde fica o conteúdo é a inicial, dessa forma você deve alterar o **index.html**, no [Sublime Text](https://www.sublimetext.com/) é fácil editar esse arquivo, todos os textos destacados em **branco** são dos textos existentes na pagina inicial, basta alterar. Nos locais onde há imagens coloque o nome dos arquivos das imagens novas. Ficou fácil?
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-03-14.png)
 
-3. **Publique.** Você pode publicar isso de 2 formas fáceis: por meio do [GitHub Pages](https://pages.github.com/) ou conseguindo uma hospedagem e sub-domínio da infraestrutura web de sua comunidade Mozilla local.
+4. **Publish on the web.** You can publish it in two easy ways: via the [GitHub Pages](https://pages.github.com/) or getting a web hosting infrastructure and sub-domain of your Mozilla Local Community.
 
-No [GitHub Pages](https://pages.github.com/) é muito fácil, basta criar um repositório com o nome dessa forma "[usuário do GitHub].github.io", faça o upload para o GitHub dos arquivos e pronto, o site está publicado no endereço criado pelo nome do repositório.
+In [GitHub Pages](https://pages.github.com/) is very easy, just create a repository with the name of the form "[user GitHub].github.io," upload it to GitHub files and ready, the site is published at the address created by the repository name.
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-12-08.png)
 
-
-## #4 Dicas de ferramentas alternativas para criar sites, blogs e contar histórias
+## #4 Tips alternative tools for creating websites, blogs and storytelling
 
 #### [Mobirise](https://mobirise.com/)
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-39-24.png)
@@ -147,8 +147,9 @@ No [GitHub Pages](https://pages.github.com/) é muito fácil, basta criar um rep
 #### [Tumblr](https://www.tumblr.com/)
 ![Imgur](screenshots/Captura de tela de 2016-01-28 12-46-57.png)
 
-## #5 Compartilhe o seu site e sua experiência.
+## #5 Share your site and your experience.
 
-Publique o endereço do seu novo site e nos conte como foi a experiência em criar um site para seu clube, compartilhe em nosso fórum no [Discourse](https://discourse.webmaker.org/).
+Publish the address of your new site and tell us how was the experience of creating a website for your club, share in our forum at [Discourse](https://discourse.webmaker.org/).
 
-Se você tiver alguma dúvida, por favor, envie um e-mail para  [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
+
+If you have any questions, please send an email to [teachtheweb@mozillafoundation.org](mailto:teachtheweb@mozillafoundation.org).
