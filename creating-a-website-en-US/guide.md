@@ -25,10 +25,9 @@ In this package you will find:
 #### What is a domain?
 Domain is a name that is used to locate and identify your space on the internet. The domain is the basis of all their identification on the Internet. It is the "name" of your website and your emails. It consists of a name and extension, for example:
 
-**leaomozillaclubs.com**
-Name: leaomozillaclubs
-
-Extension: ".com"
+**leaomozillaclubs.com**<br>
+Name: leaomozillaclubs<br>
+Extension: ".com"<br>
 
 These names are usually called "domains" (for example: mozilla.org is our domain). 
 
