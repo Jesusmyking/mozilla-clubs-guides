@@ -54,45 +54,45 @@ Now that you know what is Wordpress.com, let's get started by creating an accoun
 1. **Visit Wordpress.com** and click the button ["Create Website"](https://wordpress.com/start/themes/en).
 ![Imgur](screenshots/Captura de tela de 2016-01-27 22-55-14.png)
 
-2. **Tema**Agora para iniciar efetivamente você precisa escolher um tema bem bonito para seu site! Faça a escolha e dê um clique no seu tema preferido, o Wordpress.com tem muitos temas para você escolher, fique a vontade.
+2. **Theme** Now to actually start you need to choose a very beautiful theme for your site! Make your choice and click on your preferred theme, Wordpress.com has many themes to choose from, be my guest.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-00-38.png)
 
-3. **É hora de escolher o domínio**, que é o endereço do seu site na web. É por meio dele que as pessoas vão saber o caminho para chegar até seu novo site, certifique-se de criar um domínio bem legal. O Wordpress.com oferece o subdomínio [seu clube].wordpress.com gratuitamente, mas se você quiser um domínio [.com] você pode com alguns dólares ter um domínio curto.
+3. **It's time to choose the domain**, what is the address of your web site. It is through him that people will know the way to get to your new site, be sure to create a cool area. The Wordpress.com offers the subdomain [name-club].wordpress.com free, but if you want a domain [.com] you can with a few bucks to have a short domain.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-02-45.png)
 
-4. **Escolha um plano.** Saiba que o plano gratuito é ideal para sites novos e possuí muitos recursos para você criar um site fantástico, ele é suficiente para suprir as necessidades de um clube.
+4. **Choose a plan.** Know that the free plan is ideal for new sites and possess many features for you to create a fantastic site, it is sufficient to meet the needs of a club.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-03-43.png)
 
-5. **Agora é hora de se identificar.** Digite seu email, usuário e uma senha forte. Clique em "Create my Account" e aguarde o Wordpress.com preparar seu novo site! <br>
+5. **Now it's time to identify.** Enter your email, username and a strong password. Click "Create my Account" and wait for the Wordpress.com prepare your new site! <br>
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-06-01.png)
 
-6. **Pronto!** Agora você pode festejar, seu clube agora já tem um novo site! Veja os próximos tópicos para aprender a postar e fazer coisas legais. <br>
+6. **Ready!** Now you can celebrate his club now has a new website! See the following topics to learn how to post and do cool things.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-06-29.png)
 
-#### Usando o painel de administração e configurando.
+#### Using the admin panel and setting.
 
-**Antes de iniciar!** O Wordpress.com lhe enviou um email para confirmar seu endereço de email, certifique-se de abrir o email e clicar no link de confirmação. Feito isso, está pronto, pode continuar!
+**Before starting!** The Wordpress.com sent you an email to confirm your email address, make sure you open the email and click the confirmation link. That done, you are ready, you can continue!
 
-1. **Painel de administração.** Vamos começar configurando! No menu lateral você tem acesso a várias opções, clique em "Settings".
+1. **Admin panel.** Let's start configuring! In the side menu you have access to several options, click "Settings".
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-31-45.png)
 
-2. **Configuração.** Em "General" você tem acesso as configurações mais simples como nome do site, descrição e idioma. Existem outras configurações mais detalhadas, fique a vontade para customizar e deixar do seu jeito. Após fazer alterações clique em "Save Settings".
+2. **Configuration.** "General" you have access to the most simple settings such as site name, description and language. There are other more detailed settings, feel free to customize and make your way. After making changes click "Save Settings".
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-37-52.png)
 
-#### Postando artigos.
+#### Posting articles.
 
-1. **Posts.** Aqui você pode começar a criar posts! Em "Blog Posts" no botão "Add" você pode começar a contar suas histórias.
+1. **Posts.** Here you can start creating posts! In "Blog Posts" in the "Add" button you can start to tell their stories.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-47-38.png)
 
-2. **Escrevendo.** Perceba que a ferramenta é de fácil compreensão, no topo você escreve o título, no corpo do texto você tem uma série de opções para marcar o seu texto deixando em Bold e Itálico, criando listas, sequências numéricas, citações, imagens, entre outros recursos para usar a vontade e deixar seu texto bem legal.
+2. **Writing.** You realize that the tool is easy to understand, at the top you write the title in the text you have a number of options to mark your text leaving Bold and Italic, creating lists, numerical sequences, quotes, images, and other resources to use and will leave your cool text.
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-50-39.png)
 
-3. **Categorias.** As categorias são criadas para organizar seus posts em temas e seções específicas, e você pode criar novas categorias clicando em "Add a new category", escreva o nome na boxlight que abriu e depois clique em "Add". <br>
+3. **Categories.** The categories are created to organize your posts on specific topics and sections, and you can create new categories by clicking on "Add a new category", type the name in lightbox which opened and then click "Add". <br>
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-50-55.png)
 
 ![Imgur](screenshots/Captura de tela de 2016-01-27 23-52-12.png)
 
-#### Outras ferramentas para explorar e descobrir.
+#### Other tools to explore and discover.
 Existem muitas ferramentas para explorar e aprender no Wordpress.com, eu recomendo que você navegue pelo menu do painel de administração e assim vai descobrir novas maneiras de personalizar, criar páginas, mudar o tema, entre outros. Eu separei algumas seções para você conhecer primeiro, explorar e aprender na prática.
 
 1. **Temas.** Você pode alterar o tema a qualquer momento.
